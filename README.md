@@ -7,3 +7,4 @@
 * operators
 * free funcs for general use
 * plotting
+* setup CI
